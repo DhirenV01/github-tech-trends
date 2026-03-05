@@ -1,7 +1,16 @@
-const API_BASE = (typeof window !== 'undefined' && window.env && window.env.API_BASE);
-
 const comparisonCache = {};
 const comparisonPromises = {};
+
+async function fetchLocalData(path) {
+    try {
+        const res = await fetch(path);
+        if (!res.ok) throw new Error('Failed to load data');
+        return await res.json();
+    } catch (err) {
+        console.warn('Data fetch failed:', err);
+        return [];
+    }
+}
 
 export async function getRepoCounts(range = 'weekly') {
     const byTopic = await getRepoCountsByTopic(range);
@@ -13,69 +22,26 @@ export async function getRepoCounts(range = 'weekly') {
     });
 }
 
-function getLastMidnightUTC1() {
-    const now = new Date();
-    const offset = 60 * 60 * 1000; // UTC+1
-    const timeInZone = new Date(now.getTime() + offset);
-    const midnightInZone = Date.UTC(timeInZone.getUTCFullYear(), timeInZone.getUTCMonth(), timeInZone.getUTCDate());
-    return midnightInZone - offset;
-}
-
-async function fetchWithCache(url, key) {
-    const now = new Date().getTime();
-    const cached = localStorage.getItem(key);
-    const lastMidnight = getLastMidnightUTC1();
-
-    if (cached) {
-        const { timestamp, data } = JSON.parse(cached);
-        if (timestamp > lastMidnight) {
-            return data;
-        }
-        localStorage.removeItem(key);
-    }
-
-    if (!API_BASE) return [];
-    try {
-        const res = await fetch(url);
-        if (!res.ok) throw new Error('Network response was not ok');
-        const data = await res.json();
-        localStorage.setItem(key, JSON.stringify({ timestamp: now, data }));
-        return data;
-    } catch (err) {
-        console.warn('API fetch failed:', err);
-        return [];
-    }
-}
-
 export async function getRepoCountsByTopic(range = 'weekly') {
-    return fetchWithCache(
-        `${API_BASE}/repo-counts?interval=${encodeURIComponent(range)}`,
-        `repoCounts_${range}`
-    );
+    return fetchLocalData(`data/repo-counts-${range}.json`);
 }
 
 export async function getLanguagesTimeseries(range = 'weekly') {
-    return fetchWithCache(
-        `${API_BASE}/primary-languages?interval=${encodeURIComponent(range)}`,
-        `languages_${range}`
-    );
+    return fetchLocalData(`data/primary-languages-${range}.json`);
 }
 
 export async function getRepoList(range = 'weekly') {
-    // Reuse the comparison endpoint to generate the list
     const data = await getRepoComparison(range);
     if (!data) return [];
 
     return Object.entries(data).map(([id, repoData]) => {
         const history = repoData.history || [];
-        // Find the entry with the latest date
         const latest = history.length > 0 
             ? history.reduce((a, b) => (a.date > b.date ? a : b)) 
             : {};
 
         return {
             id: id,
-            // Fallback to ID if name is missing in the comparison data
             name: repoData.name || id,
             stars: latest.stars || 0,
             forks: latest.forks || 0,
@@ -94,14 +60,12 @@ export async function getRepoComparison(range = 'weekly') {
         return comparisonPromises[range];
     }
 
-    const promise = fetchWithCache(
-        `${API_BASE}/repo-comparison?interval=${encodeURIComponent(range)}`, 
-        `repoComparison_aggregated_${range}`
-    ).then(data => {
-        if (data) comparisonCache[range] = data;
-        delete comparisonPromises[range];
-        return data;
-    });
+    const promise = fetchLocalData(`data/repo-comparison-${range}.json`)
+        .then(data => {
+            if (data) comparisonCache[range] = data;
+            delete comparisonPromises[range];
+            return data;
+        });
 
     comparisonPromises[range] = promise;
     return promise;

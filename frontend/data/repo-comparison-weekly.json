@@ -1,0 +1,3227 @@
+{
+  "tensorflow/tensorflow": {
+    "name": "tensorflow",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 156829,
+        "forks": 79217,
+        "open_issues": 1793,
+        "size": 413789
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 157227,
+        "forks": 79477,
+        "open_issues": 1783,
+        "size": 414973
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 158097,
+        "forks": 79778,
+        "open_issues": 1795,
+        "size": 415996
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 159011,
+        "forks": 80128,
+        "open_issues": 1795,
+        "size": 417504
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 159409,
+        "forks": 80369,
+        "open_issues": 1833,
+        "size": 418764
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 160479,
+        "forks": 80683,
+        "open_issues": 1849,
+        "size": 420595
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 161244,
+        "forks": 81032,
+        "open_issues": 1826,
+        "size": 421841
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 161601,
+        "forks": 81347,
+        "open_issues": 1849,
+        "size": 422669
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 162577,
+        "forks": 81633,
+        "open_issues": 1862,
+        "size": 423619
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 163094,
+        "forks": 81913,
+        "open_issues": 1912,
+        "size": 425554
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 164049,
+        "forks": 82198,
+        "open_issues": 1915,
+        "size": 425979
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 164747,
+        "forks": 82549,
+        "open_issues": 1878,
+        "size": 427745
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 165600,
+        "forks": 82878,
+        "open_issues": 1888,
+        "size": 428551
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 166091,
+        "forks": 83166,
+        "open_issues": 1956,
+        "size": 429948
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 166794,
+        "forks": 83429,
+        "open_issues": 1914,
+        "size": 431450
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 167879,
+        "forks": 83754,
+        "open_issues": 1955,
+        "size": 432730
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 168540,
+        "forks": 84033,
+        "open_issues": 1977,
+        "size": 433897
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 169155,
+        "forks": 84365,
+        "open_issues": 1997,
+        "size": 435056
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 169849,
+        "forks": 84687,
+        "open_issues": 1977,
+        "size": 436156
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 170725,
+        "forks": 84994,
+        "open_issues": 1964,
+        "size": 437710
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 171549,
+        "forks": 85230,
+        "open_issues": 2032,
+        "size": 439108
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 172013,
+        "forks": 85602,
+        "open_issues": 1996,
+        "size": 439838
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 172982,
+        "forks": 85835,
+        "open_issues": 2003,
+        "size": 441055
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 173468,
+        "forks": 86199,
+        "open_issues": 2008,
+        "size": 442211
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 174118,
+        "forks": 86484,
+        "open_issues": 2043,
+        "size": 443998
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 175157,
+        "forks": 86796,
+        "open_issues": 2044,
+        "size": 444567
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 175708,
+        "forks": 87075,
+        "open_issues": 2082,
+        "size": 446064
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 176685,
+        "forks": 87401,
+        "open_issues": 2052,
+        "size": 447720
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 177182,
+        "forks": 87679,
+        "open_issues": 2109,
+        "size": 449068
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 178120,
+        "forks": 88025,
+        "open_issues": 2112,
+        "size": 450323
+      }
+    ]
+  },
+  "pytorch/pytorch": {
+    "name": "pytorch",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 72061,
+        "forks": 19804,
+        "open_issues": 10602,
+        "size": 294457
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 72414,
+        "forks": 19907,
+        "open_issues": 10668,
+        "size": 295712
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 72774,
+        "forks": 19919,
+        "open_issues": 10728,
+        "size": 295726
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 73061,
+        "forks": 20016,
+        "open_issues": 10826,
+        "size": 297314
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 73608,
+        "forks": 20089,
+        "open_issues": 10881,
+        "size": 297558
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 73895,
+        "forks": 20217,
+        "open_issues": 10937,
+        "size": 299029
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 74201,
+        "forks": 20239,
+        "open_issues": 11014,
+        "size": 299748
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 74587,
+        "forks": 20337,
+        "open_issues": 11052,
+        "size": 300691
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 74694,
+        "forks": 20411,
+        "open_issues": 11159,
+        "size": 301292
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 75322,
+        "forks": 20464,
+        "open_issues": 11177,
+        "size": 301937
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 75470,
+        "forks": 20594,
+        "open_issues": 11294,
+        "size": 303608
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 75986,
+        "forks": 20659,
+        "open_issues": 11366,
+        "size": 303631
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 76422,
+        "forks": 20746,
+        "open_issues": 11422,
+        "size": 304768
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 76666,
+        "forks": 20741,
+        "open_issues": 11483,
+        "size": 306149
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 76799,
+        "forks": 20872,
+        "open_issues": 11533,
+        "size": 306925
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 77275,
+        "forks": 20922,
+        "open_issues": 11575,
+        "size": 307740
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 77611,
+        "forks": 21044,
+        "open_issues": 11681,
+        "size": 308527
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 77774,
+        "forks": 21099,
+        "open_issues": 11716,
+        "size": 309324
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 78237,
+        "forks": 21156,
+        "open_issues": 11800,
+        "size": 309896
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 78488,
+        "forks": 21233,
+        "open_issues": 11849,
+        "size": 311382
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 78999,
+        "forks": 21303,
+        "open_issues": 11930,
+        "size": 312522
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 79290,
+        "forks": 21440,
+        "open_issues": 11987,
+        "size": 312474
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 79656,
+        "forks": 21429,
+        "open_issues": 12037,
+        "size": 313578
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 79929,
+        "forks": 21508,
+        "open_issues": 12131,
+        "size": 314616
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 80366,
+        "forks": 21570,
+        "open_issues": 12188,
+        "size": 315976
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 80719,
+        "forks": 21705,
+        "open_issues": 12237,
+        "size": 316023
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 80878,
+        "forks": 21788,
+        "open_issues": 12299,
+        "size": 317488
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 81508,
+        "forks": 21861,
+        "open_issues": 12380,
+        "size": 318186
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 81849,
+        "forks": 21880,
+        "open_issues": 12418,
+        "size": 318890
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 82081,
+        "forks": 21966,
+        "open_issues": 12529,
+        "size": 319794
+      }
+    ]
+  },
+  "scikit-learn/scikit-learn": {
+    "name": "scikit-learn",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 51064,
+        "forks": 22539,
+        "open_issues": 1956,
+        "size": 165224
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 51094,
+        "forks": 22616,
+        "open_issues": 1974,
+        "size": 166414
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 51442,
+        "forks": 22712,
+        "open_issues": 1958,
+        "size": 166411
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 51842,
+        "forks": 22709,
+        "open_issues": 1995,
+        "size": 167006
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 51847,
+        "forks": 22822,
+        "open_issues": 2025,
+        "size": 168020
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 52098,
+        "forks": 22940,
+        "open_issues": 2044,
+        "size": 167702
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 52611,
+        "forks": 22986,
+        "open_issues": 2027,
+        "size": 169034
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 52886,
+        "forks": 23090,
+        "open_issues": 2040,
+        "size": 169297
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 52899,
+        "forks": 23192,
+        "open_issues": 2073,
+        "size": 169566
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 53241,
+        "forks": 23256,
+        "open_issues": 2061,
+        "size": 170132
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 53314,
+        "forks": 23361,
+        "open_issues": 2055,
+        "size": 171008
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 53786,
+        "forks": 23463,
+        "open_issues": 2102,
+        "size": 171462
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 53789,
+        "forks": 23492,
+        "open_issues": 2084,
+        "size": 171849
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 54172,
+        "forks": 23613,
+        "open_issues": 2138,
+        "size": 172361
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 54459,
+        "forks": 23690,
+        "open_issues": 2143,
+        "size": 172053
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 54584,
+        "forks": 23835,
+        "open_issues": 2122,
+        "size": 173405
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 54980,
+        "forks": 23903,
+        "open_issues": 2157,
+        "size": 173545
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 54996,
+        "forks": 23972,
+        "open_issues": 2161,
+        "size": 174036
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 55336,
+        "forks": 24043,
+        "open_issues": 2174,
+        "size": 174818
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 55678,
+        "forks": 24135,
+        "open_issues": 2180,
+        "size": 175489
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 55804,
+        "forks": 24198,
+        "open_issues": 2206,
+        "size": 175275
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 56172,
+        "forks": 24309,
+        "open_issues": 2188,
+        "size": 176403
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 56517,
+        "forks": 24398,
+        "open_issues": 2188,
+        "size": 176349
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 56741,
+        "forks": 24492,
+        "open_issues": 2243,
+        "size": 177455
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 56795,
+        "forks": 24567,
+        "open_issues": 2252,
+        "size": 177828
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 57173,
+        "forks": 24624,
+        "open_issues": 2253,
+        "size": 178500
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 57098,
+        "forks": 24707,
+        "open_issues": 2266,
+        "size": 178998
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 57622,
+        "forks": 24819,
+        "open_issues": 2301,
+        "size": 178608
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 57785,
+        "forks": 24875,
+        "open_issues": 2291,
+        "size": 179935
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 58033,
+        "forks": 24951,
+        "open_issues": 2316,
+        "size": 179647
+      }
+    ]
+  },
+  "pandas-dev/pandas": {
+    "name": "pandas",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 36969,
+        "forks": 15333,
+        "open_issues": 3039,
+        "size": 201976
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 37173,
+        "forks": 15408,
+        "open_issues": 3064,
+        "size": 202852
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 37426,
+        "forks": 15455,
+        "open_issues": 3092,
+        "size": 203778
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 37322,
+        "forks": 15467,
+        "open_issues": 3139,
+        "size": 204410
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 37728,
+        "forks": 15532,
+        "open_issues": 3124,
+        "size": 204968
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 37995,
+        "forks": 15640,
+        "open_issues": 3154,
+        "size": 205827
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 38079,
+        "forks": 15605,
+        "open_issues": 3180,
+        "size": 205611
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 38096,
+        "forks": 15740,
+        "open_issues": 3203,
+        "size": 207091
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 38297,
+        "forks": 15747,
+        "open_issues": 3225,
+        "size": 206847
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 38546,
+        "forks": 15789,
+        "open_issues": 3245,
+        "size": 208010
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 38857,
+        "forks": 15848,
+        "open_issues": 3244,
+        "size": 208138
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 39026,
+        "forks": 15932,
+        "open_issues": 3291,
+        "size": 208604
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 38868,
+        "forks": 15994,
+        "open_issues": 3303,
+        "size": 209239
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 39169,
+        "forks": 16057,
+        "open_issues": 3295,
+        "size": 210230
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 39267,
+        "forks": 16101,
+        "open_issues": 3323,
+        "size": 210817
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 39655,
+        "forks": 16216,
+        "open_issues": 3359,
+        "size": 211187
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 39627,
+        "forks": 16209,
+        "open_issues": 3332,
+        "size": 212234
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 39909,
+        "forks": 16325,
+        "open_issues": 3389,
+        "size": 212463
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 40142,
+        "forks": 16379,
+        "open_issues": 3374,
+        "size": 213061
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 40298,
+        "forks": 16444,
+        "open_issues": 3399,
+        "size": 213901
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 40365,
+        "forks": 16507,
+        "open_issues": 3402,
+        "size": 214957
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 40647,
+        "forks": 16517,
+        "open_issues": 3464,
+        "size": 215203
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 40663,
+        "forks": 16548,
+        "open_issues": 3467,
+        "size": 216218
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 40933,
+        "forks": 16673,
+        "open_issues": 3477,
+        "size": 216512
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 41148,
+        "forks": 16744,
+        "open_issues": 3492,
+        "size": 216932
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 41258,
+        "forks": 16740,
+        "open_issues": 3519,
+        "size": 217945
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 41525,
+        "forks": 16787,
+        "open_issues": 3529,
+        "size": 218069
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 41744,
+        "forks": 16877,
+        "open_issues": 3568,
+        "size": 218588
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 41984,
+        "forks": 16928,
+        "open_issues": 3552,
+        "size": 219742
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 42137,
+        "forks": 17000,
+        "open_issues": 3587,
+        "size": 219508
+      }
+    ]
+  },
+  "apache/spark": {
+    "name": "spark",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 34409,
+        "forks": 25237,
+        "open_issues": 359,
+        "size": 349862
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 34306,
+        "forks": 25323,
+        "open_issues": 359,
+        "size": 350656
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 34588,
+        "forks": 25442,
+        "open_issues": 365,
+        "size": 351431
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 34914,
+        "forks": 25484,
+        "open_issues": 330,
+        "size": 352895
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 34862,
+        "forks": 25615,
+        "open_issues": 334,
+        "size": 353987
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 35312,
+        "forks": 25724,
+        "open_issues": 369,
+        "size": 355016
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 35436,
+        "forks": 25746,
+        "open_issues": 362,
+        "size": 355488
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 35570,
+        "forks": 25907,
+        "open_issues": 326,
+        "size": 356753
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 35636,
+        "forks": 25926,
+        "open_issues": 363,
+        "size": 357859
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 35946,
+        "forks": 26034,
+        "open_issues": 333,
+        "size": 359465
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 35884,
+        "forks": 26156,
+        "open_issues": 377,
+        "size": 360007
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 35984,
+        "forks": 26237,
+        "open_issues": 340,
+        "size": 361436
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 36332,
+        "forks": 26354,
+        "open_issues": 367,
+        "size": 362192
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 36356,
+        "forks": 26426,
+        "open_issues": 352,
+        "size": 363662
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 36625,
+        "forks": 26538,
+        "open_issues": 385,
+        "size": 364666
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 36713,
+        "forks": 26612,
+        "open_issues": 370,
+        "size": 365810
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 36740,
+        "forks": 26712,
+        "open_issues": 391,
+        "size": 366861
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 36978,
+        "forks": 26877,
+        "open_issues": 391,
+        "size": 367610
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 37227,
+        "forks": 26958,
+        "open_issues": 370,
+        "size": 368060
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 37388,
+        "forks": 26985,
+        "open_issues": 365,
+        "size": 369566
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 37410,
+        "forks": 27139,
+        "open_issues": 374,
+        "size": 370753
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 37891,
+        "forks": 27263,
+        "open_issues": 369,
+        "size": 371711
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 37865,
+        "forks": 27355,
+        "open_issues": 415,
+        "size": 372542
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 37886,
+        "forks": 27456,
+        "open_issues": 371,
+        "size": 373692
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 38005,
+        "forks": 27546,
+        "open_issues": 415,
+        "size": 375223
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 38441,
+        "forks": 27604,
+        "open_issues": 419,
+        "size": 375930
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 38428,
+        "forks": 27742,
+        "open_issues": 367,
+        "size": 377005
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 38714,
+        "forks": 27845,
+        "open_issues": 384,
+        "size": 378067
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 38847,
+        "forks": 27867,
+        "open_issues": 375,
+        "size": 378497
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 38819,
+        "forks": 27988,
+        "open_issues": 401,
+        "size": 379618
+      }
+    ]
+  },
+  "apache/airflow": {
+    "name": "airflow",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 31529,
+        "forks": 12580,
+        "open_issues": 706,
+        "size": 266850
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 31697,
+        "forks": 12647,
+        "open_issues": 683,
+        "size": 267479
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 32120,
+        "forks": 12741,
+        "open_issues": 702,
+        "size": 268868
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 32202,
+        "forks": 12747,
+        "open_issues": 699,
+        "size": 269460
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 32447,
+        "forks": 12762,
+        "open_issues": 722,
+        "size": 269924
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 32559,
+        "forks": 12803,
+        "open_issues": 723,
+        "size": 270801
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 32688,
+        "forks": 12891,
+        "open_issues": 734,
+        "size": 272074
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 32665,
+        "forks": 12891,
+        "open_issues": 722,
+        "size": 272279
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 32782,
+        "forks": 12992,
+        "open_issues": 711,
+        "size": 273673
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 32940,
+        "forks": 13030,
+        "open_issues": 693,
+        "size": 274202
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 33157,
+        "forks": 13101,
+        "open_issues": 748,
+        "size": 274960
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 33301,
+        "forks": 13088,
+        "open_issues": 720,
+        "size": 275382
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 33364,
+        "forks": 13144,
+        "open_issues": 759,
+        "size": 276768
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 33648,
+        "forks": 13188,
+        "open_issues": 745,
+        "size": 276917
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 33893,
+        "forks": 13306,
+        "open_issues": 745,
+        "size": 278494
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 33724,
+        "forks": 13280,
+        "open_issues": 762,
+        "size": 278641
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 33987,
+        "forks": 13338,
+        "open_issues": 766,
+        "size": 279678
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 34117,
+        "forks": 13378,
+        "open_issues": 773,
+        "size": 280683
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 34444,
+        "forks": 13444,
+        "open_issues": 761,
+        "size": 280921
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 34429,
+        "forks": 13509,
+        "open_issues": 777,
+        "size": 281651
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 34764,
+        "forks": 13515,
+        "open_issues": 749,
+        "size": 283179
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 34682,
+        "forks": 13579,
+        "open_issues": 770,
+        "size": 283356
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 34846,
+        "forks": 13626,
+        "open_issues": 783,
+        "size": 284787
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 34919,
+        "forks": 13676,
+        "open_issues": 745,
+        "size": 285066
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 35176,
+        "forks": 13783,
+        "open_issues": 769,
+        "size": 285516
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 35293,
+        "forks": 13789,
+        "open_issues": 756,
+        "size": 286429
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 35732,
+        "forks": 13858,
+        "open_issues": 790,
+        "size": 287216
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 35883,
+        "forks": 13861,
+        "open_issues": 791,
+        "size": 288359
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 36049,
+        "forks": 13947,
+        "open_issues": 797,
+        "size": 289307
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 35855,
+        "forks": 14007,
+        "open_issues": 802,
+        "size": 289726
+      }
+    ]
+  },
+  "langchain-ai/langchain": {
+    "name": "langchain",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 81074,
+        "forks": 13455,
+        "open_issues": 1206,
+        "size": 138302
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 81477,
+        "forks": 13567,
+        "open_issues": 1186,
+        "size": 138382
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 81850,
+        "forks": 13556,
+        "open_issues": 1177,
+        "size": 138817
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 82107,
+        "forks": 13659,
+        "open_issues": 1224,
+        "size": 138851
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 82533,
+        "forks": 13747,
+        "open_issues": 1246,
+        "size": 139609
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 82700,
+        "forks": 13718,
+        "open_issues": 1216,
+        "size": 140190
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 83119,
+        "forks": 13768,
+        "open_issues": 1211,
+        "size": 140263
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 83743,
+        "forks": 13893,
+        "open_issues": 1247,
+        "size": 140957
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 84169,
+        "forks": 13904,
+        "open_issues": 1241,
+        "size": 141421
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 84457,
+        "forks": 13952,
+        "open_issues": 1254,
+        "size": 141741
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 84875,
+        "forks": 14022,
+        "open_issues": 1238,
+        "size": 142449
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 85306,
+        "forks": 14032,
+        "open_issues": 1293,
+        "size": 142721
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 85661,
+        "forks": 14168,
+        "open_issues": 1281,
+        "size": 143203
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 85818,
+        "forks": 14177,
+        "open_issues": 1282,
+        "size": 143788
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 86205,
+        "forks": 14226,
+        "open_issues": 1282,
+        "size": 144140
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 86702,
+        "forks": 14276,
+        "open_issues": 1294,
+        "size": 144453
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 86899,
+        "forks": 14317,
+        "open_issues": 1302,
+        "size": 144440
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 87571,
+        "forks": 14361,
+        "open_issues": 1306,
+        "size": 145510
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 87690,
+        "forks": 14468,
+        "open_issues": 1349,
+        "size": 145433
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 88027,
+        "forks": 14443,
+        "open_issues": 1350,
+        "size": 145449
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 88420,
+        "forks": 14539,
+        "open_issues": 1310,
+        "size": 146537
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 89132,
+        "forks": 14583,
+        "open_issues": 1363,
+        "size": 146322
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 89419,
+        "forks": 14594,
+        "open_issues": 1356,
+        "size": 147582
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 89802,
+        "forks": 14710,
+        "open_issues": 1347,
+        "size": 147703
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 89958,
+        "forks": 14743,
+        "open_issues": 1355,
+        "size": 148325
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 90617,
+        "forks": 14839,
+        "open_issues": 1368,
+        "size": 148732
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 91026,
+        "forks": 14800,
+        "open_issues": 1366,
+        "size": 148872
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 91197,
+        "forks": 14891,
+        "open_issues": 1361,
+        "size": 149263
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 91678,
+        "forks": 14925,
+        "open_issues": 1371,
+        "size": 149758
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 92046,
+        "forks": 14978,
+        "open_issues": 1424,
+        "size": 149610
+      }
+    ]
+  },
+  "huggingface/transformers": {
+    "name": "transformers",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 114379,
+        "forks": 23421,
+        "open_issues": 758,
+        "size": 257217
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 115127,
+        "forks": 23474,
+        "open_issues": 775,
+        "size": 258103
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 115494,
+        "forks": 23600,
+        "open_issues": 793,
+        "size": 259482
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 116131,
+        "forks": 23696,
+        "open_issues": 791,
+        "size": 260075
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 116636,
+        "forks": 23711,
+        "open_issues": 791,
+        "size": 261140
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 117225,
+        "forks": 23886,
+        "open_issues": 775,
+        "size": 260991
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 117519,
+        "forks": 23921,
+        "open_issues": 806,
+        "size": 262514
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 118123,
+        "forks": 24020,
+        "open_issues": 789,
+        "size": 262512
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 118595,
+        "forks": 24085,
+        "open_issues": 808,
+        "size": 263952
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 119246,
+        "forks": 24164,
+        "open_issues": 785,
+        "size": 264809
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 119903,
+        "forks": 24249,
+        "open_issues": 786,
+        "size": 265588
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 120388,
+        "forks": 24363,
+        "open_issues": 810,
+        "size": 266025
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 120887,
+        "forks": 24468,
+        "open_issues": 800,
+        "size": 266746
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 121352,
+        "forks": 24607,
+        "open_issues": 815,
+        "size": 267936
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 122021,
+        "forks": 24681,
+        "open_issues": 805,
+        "size": 268817
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 122294,
+        "forks": 24713,
+        "open_issues": 814,
+        "size": 269458
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 123122,
+        "forks": 24790,
+        "open_issues": 852,
+        "size": 269541
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 123483,
+        "forks": 24930,
+        "open_issues": 856,
+        "size": 270665
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 124130,
+        "forks": 25040,
+        "open_issues": 846,
+        "size": 271427
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 124559,
+        "forks": 25080,
+        "open_issues": 871,
+        "size": 272299
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 125016,
+        "forks": 25187,
+        "open_issues": 855,
+        "size": 272661
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 125641,
+        "forks": 25318,
+        "open_issues": 875,
+        "size": 273927
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 126283,
+        "forks": 25389,
+        "open_issues": 879,
+        "size": 274408
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 126595,
+        "forks": 25440,
+        "open_issues": 867,
+        "size": 275478
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 127138,
+        "forks": 25501,
+        "open_issues": 859,
+        "size": 275945
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 127756,
+        "forks": 25689,
+        "open_issues": 859,
+        "size": 277192
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 128316,
+        "forks": 25718,
+        "open_issues": 876,
+        "size": 277304
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 128727,
+        "forks": 25833,
+        "open_issues": 907,
+        "size": 278395
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 129351,
+        "forks": 25876,
+        "open_issues": 889,
+        "size": 279272
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 130160,
+        "forks": 25979,
+        "open_issues": 902,
+        "size": 280072
+      }
+    ]
+  },
+  "dbt-labs/dbt-core": {
+    "name": "dbt-core",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 8502,
+        "forks": 1345,
+        "open_issues": 526,
+        "size": 41306
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 8578,
+        "forks": 1310,
+        "open_issues": 552,
+        "size": 41043
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 8473,
+        "forks": 1319,
+        "open_issues": 584,
+        "size": 41468
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 8571,
+        "forks": 1369,
+        "open_issues": 568,
+        "size": 41686
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 8680,
+        "forks": 1401,
+        "open_issues": 561,
+        "size": 41692
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 8414,
+        "forks": 1376,
+        "open_issues": 540,
+        "size": 42509
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 8561,
+        "forks": 1352,
+        "open_issues": 593,
+        "size": 42614
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 8751,
+        "forks": 1394,
+        "open_issues": 599,
+        "size": 42474
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 8659,
+        "forks": 1352,
+        "open_issues": 576,
+        "size": 42757
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 8567,
+        "forks": 1377,
+        "open_issues": 579,
+        "size": 42620
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 8758,
+        "forks": 1418,
+        "open_issues": 561,
+        "size": 42546
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 8750,
+        "forks": 1451,
+        "open_issues": 580,
+        "size": 42491
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 8801,
+        "forks": 1461,
+        "open_issues": 572,
+        "size": 42467
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 8932,
+        "forks": 1448,
+        "open_issues": 573,
+        "size": 43056
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 8971,
+        "forks": 1396,
+        "open_issues": 626,
+        "size": 43431
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 8927,
+        "forks": 1421,
+        "open_issues": 618,
+        "size": 43743
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 9118,
+        "forks": 1400,
+        "open_issues": 591,
+        "size": 42991
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 8902,
+        "forks": 1419,
+        "open_issues": 591,
+        "size": 43187
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 9175,
+        "forks": 1412,
+        "open_issues": 631,
+        "size": 43911
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 9241,
+        "forks": 1407,
+        "open_issues": 597,
+        "size": 44232
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 9341,
+        "forks": 1483,
+        "open_issues": 620,
+        "size": 43857
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 9371,
+        "forks": 1480,
+        "open_issues": 641,
+        "size": 44099
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 9253,
+        "forks": 1500,
+        "open_issues": 655,
+        "size": 44534
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 9353,
+        "forks": 1500,
+        "open_issues": 639,
+        "size": 44394
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 9268,
+        "forks": 1504,
+        "open_issues": 623,
+        "size": 44033
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 9367,
+        "forks": 1437,
+        "open_issues": 636,
+        "size": 44455
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 9505,
+        "forks": 1472,
+        "open_issues": 659,
+        "size": 44408
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 9523,
+        "forks": 1446,
+        "open_issues": 635,
+        "size": 44770
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 9297,
+        "forks": 1483,
+        "open_issues": 645,
+        "size": 44837
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 9319,
+        "forks": 1457,
+        "open_issues": 643,
+        "size": 45351
+      }
+    ]
+  },
+  "apache/kafka": {
+    "name": "kafka",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 24586,
+        "forks": 12559,
+        "open_issues": 266,
+        "size": 110784
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 24601,
+        "forks": 12676,
+        "open_issues": 264,
+        "size": 110750
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 24867,
+        "forks": 12705,
+        "open_issues": 265,
+        "size": 111129
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 25165,
+        "forks": 12699,
+        "open_issues": 257,
+        "size": 111823
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 25195,
+        "forks": 12826,
+        "open_issues": 243,
+        "size": 111553
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 25328,
+        "forks": 12851,
+        "open_issues": 264,
+        "size": 111709
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 25166,
+        "forks": 12896,
+        "open_issues": 240,
+        "size": 112716
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 25426,
+        "forks": 12978,
+        "open_issues": 240,
+        "size": 112733
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 25696,
+        "forks": 12958,
+        "open_issues": 239,
+        "size": 112801
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 25844,
+        "forks": 13040,
+        "open_issues": 266,
+        "size": 113415
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 25865,
+        "forks": 13110,
+        "open_issues": 250,
+        "size": 113582
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 25904,
+        "forks": 13117,
+        "open_issues": 266,
+        "size": 113959
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 26226,
+        "forks": 13172,
+        "open_issues": 286,
+        "size": 114484
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 25972,
+        "forks": 13257,
+        "open_issues": 286,
+        "size": 114545
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 26095,
+        "forks": 13267,
+        "open_issues": 252,
+        "size": 115105
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 26524,
+        "forks": 13323,
+        "open_issues": 266,
+        "size": 115123
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 26663,
+        "forks": 13406,
+        "open_issues": 307,
+        "size": 115813
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 26485,
+        "forks": 13412,
+        "open_issues": 256,
+        "size": 116123
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 26864,
+        "forks": 13436,
+        "open_issues": 310,
+        "size": 116216
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 26799,
+        "forks": 13550,
+        "open_issues": 298,
+        "size": 116867
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 26957,
+        "forks": 13531,
+        "open_issues": 294,
+        "size": 117245
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 26916,
+        "forks": 13602,
+        "open_issues": 292,
+        "size": 117236
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 27317,
+        "forks": 13654,
+        "open_issues": 311,
+        "size": 117312
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 27447,
+        "forks": 13749,
+        "open_issues": 313,
+        "size": 118482
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 27598,
+        "forks": 13795,
+        "open_issues": 320,
+        "size": 118383
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 27383,
+        "forks": 13838,
+        "open_issues": 305,
+        "size": 118608
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 27712,
+        "forks": 13851,
+        "open_issues": 266,
+        "size": 118877
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 27726,
+        "forks": 13876,
+        "open_issues": 326,
+        "size": 119056
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 27858,
+        "forks": 13999,
+        "open_issues": 299,
+        "size": 119364
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 27915,
+        "forks": 13967,
+        "open_issues": 279,
+        "size": 119579
+      }
+    ]
+  },
+  "grafana/grafana": {
+    "name": "grafana",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 55391,
+        "forks": 10850,
+        "open_issues": 3546,
+        "size": 377219
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 55894,
+        "forks": 10860,
+        "open_issues": 3614,
+        "size": 378587
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 56030,
+        "forks": 10836,
+        "open_issues": 3625,
+        "size": 379306
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 56414,
+        "forks": 10953,
+        "open_issues": 3613,
+        "size": 380704
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 56474,
+        "forks": 10934,
+        "open_issues": 3636,
+        "size": 381409
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 56897,
+        "forks": 11054,
+        "open_issues": 3687,
+        "size": 383183
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 56888,
+        "forks": 11090,
+        "open_issues": 3698,
+        "size": 383530
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 57274,
+        "forks": 11085,
+        "open_issues": 3735,
+        "size": 385353
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 57446,
+        "forks": 11137,
+        "open_issues": 3752,
+        "size": 386039
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 57971,
+        "forks": 11217,
+        "open_issues": 3785,
+        "size": 387338
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 57965,
+        "forks": 11231,
+        "open_issues": 3772,
+        "size": 388326
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 58347,
+        "forks": 11229,
+        "open_issues": 3801,
+        "size": 389835
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 58660,
+        "forks": 11302,
+        "open_issues": 3829,
+        "size": 391059
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 58772,
+        "forks": 11386,
+        "open_issues": 3846,
+        "size": 391917
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 59159,
+        "forks": 11382,
+        "open_issues": 3854,
+        "size": 393370
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 59252,
+        "forks": 11447,
+        "open_issues": 3873,
+        "size": 394558
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 59539,
+        "forks": 11418,
+        "open_issues": 3928,
+        "size": 395288
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 59861,
+        "forks": 11523,
+        "open_issues": 3968,
+        "size": 396032
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 60296,
+        "forks": 11560,
+        "open_issues": 3985,
+        "size": 397185
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 60338,
+        "forks": 11546,
+        "open_issues": 4000,
+        "size": 398353
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 60592,
+        "forks": 11634,
+        "open_issues": 4031,
+        "size": 399845
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 60789,
+        "forks": 11673,
+        "open_issues": 4001,
+        "size": 401420
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 61088,
+        "forks": 11717,
+        "open_issues": 4073,
+        "size": 401939
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 61248,
+        "forks": 11754,
+        "open_issues": 4042,
+        "size": 403118
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 61753,
+        "forks": 11790,
+        "open_issues": 4076,
+        "size": 404239
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 61798,
+        "forks": 11831,
+        "open_issues": 4097,
+        "size": 405003
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 62180,
+        "forks": 11837,
+        "open_issues": 4157,
+        "size": 406837
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 62610,
+        "forks": 11909,
+        "open_issues": 4176,
+        "size": 407386
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 62609,
+        "forks": 11912,
+        "open_issues": 4166,
+        "size": 409307
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 63041,
+        "forks": 12039,
+        "open_issues": 4223,
+        "size": 409642
+      }
+    ]
+  },
+  "metabase/metabase": {
+    "name": "metabase",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 33628,
+        "forks": 4540,
+        "open_issues": 3230,
+        "size": 174759
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 33712,
+        "forks": 4467,
+        "open_issues": 3276,
+        "size": 174905
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 33563,
+        "forks": 4516,
+        "open_issues": 3252,
+        "size": 176203
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 33787,
+        "forks": 4571,
+        "open_issues": 3318,
+        "size": 176616
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 34179,
+        "forks": 4585,
+        "open_issues": 3305,
+        "size": 176509
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 34423,
+        "forks": 4572,
+        "open_issues": 3313,
+        "size": 177228
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 34245,
+        "forks": 4559,
+        "open_issues": 3332,
+        "size": 177873
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 34667,
+        "forks": 4649,
+        "open_issues": 3366,
+        "size": 178032
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 34553,
+        "forks": 4650,
+        "open_issues": 3395,
+        "size": 179041
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 34663,
+        "forks": 4685,
+        "open_issues": 3408,
+        "size": 179605
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 34935,
+        "forks": 4713,
+        "open_issues": 3405,
+        "size": 179839
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 35188,
+        "forks": 4639,
+        "open_issues": 3455,
+        "size": 180426
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 35249,
+        "forks": 4729,
+        "open_issues": 3461,
+        "size": 180780
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 35624,
+        "forks": 4759,
+        "open_issues": 3460,
+        "size": 181649
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 35625,
+        "forks": 4699,
+        "open_issues": 3508,
+        "size": 182194
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 35857,
+        "forks": 4808,
+        "open_issues": 3526,
+        "size": 182729
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 35765,
+        "forks": 4774,
+        "open_issues": 3569,
+        "size": 183167
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 35935,
+        "forks": 4824,
+        "open_issues": 3558,
+        "size": 183592
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 36199,
+        "forks": 4855,
+        "open_issues": 3554,
+        "size": 184099
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 36261,
+        "forks": 4821,
+        "open_issues": 3588,
+        "size": 185008
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 36720,
+        "forks": 4874,
+        "open_issues": 3599,
+        "size": 185572
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 36839,
+        "forks": 4906,
+        "open_issues": 3660,
+        "size": 185646
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 36767,
+        "forks": 4834,
+        "open_issues": 3654,
+        "size": 186390
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 37029,
+        "forks": 4928,
+        "open_issues": 3663,
+        "size": 187205
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 37411,
+        "forks": 4950,
+        "open_issues": 3700,
+        "size": 187591
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 37416,
+        "forks": 4961,
+        "open_issues": 3702,
+        "size": 188233
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 37397,
+        "forks": 4906,
+        "open_issues": 3756,
+        "size": 188721
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 37719,
+        "forks": 4919,
+        "open_issues": 3748,
+        "size": 188657
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 37664,
+        "forks": 4957,
+        "open_issues": 3806,
+        "size": 189017
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 37961,
+        "forks": 4989,
+        "open_issues": 3802,
+        "size": 189907
+      }
+    ]
+  },
+  "plotly/plotly.py": {
+    "name": "plotly.py",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 14158,
+        "forks": 2260,
+        "open_issues": 751,
+        "size": 59337
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 14331,
+        "forks": 2290,
+        "open_issues": 751,
+        "size": 59771
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 14194,
+        "forks": 2316,
+        "open_issues": 747,
+        "size": 60544
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 14413,
+        "forks": 2267,
+        "open_issues": 765,
+        "size": 59964
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 14332,
+        "forks": 2289,
+        "open_issues": 809,
+        "size": 60426
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 14591,
+        "forks": 2299,
+        "open_issues": 815,
+        "size": 61175
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 14474,
+        "forks": 2294,
+        "open_issues": 773,
+        "size": 60883
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 14697,
+        "forks": 2323,
+        "open_issues": 790,
+        "size": 61501
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 14674,
+        "forks": 2302,
+        "open_issues": 823,
+        "size": 60818
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 14847,
+        "forks": 2331,
+        "open_issues": 781,
+        "size": 61353
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 14850,
+        "forks": 2309,
+        "open_issues": 815,
+        "size": 61393
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 14772,
+        "forks": 2307,
+        "open_issues": 791,
+        "size": 61607
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 15012,
+        "forks": 2340,
+        "open_issues": 809,
+        "size": 61907
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 15048,
+        "forks": 2403,
+        "open_issues": 822,
+        "size": 61801
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 15159,
+        "forks": 2376,
+        "open_issues": 822,
+        "size": 62267
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 14894,
+        "forks": 2422,
+        "open_issues": 859,
+        "size": 62922
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 15119,
+        "forks": 2415,
+        "open_issues": 836,
+        "size": 62449
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 15332,
+        "forks": 2353,
+        "open_issues": 818,
+        "size": 63035
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 15397,
+        "forks": 2406,
+        "open_issues": 841,
+        "size": 63052
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 15520,
+        "forks": 2449,
+        "open_issues": 833,
+        "size": 63681
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 15219,
+        "forks": 2390,
+        "open_issues": 882,
+        "size": 63508
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 15617,
+        "forks": 2481,
+        "open_issues": 860,
+        "size": 63100
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 15400,
+        "forks": 2397,
+        "open_issues": 852,
+        "size": 64041
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 15732,
+        "forks": 2444,
+        "open_issues": 865,
+        "size": 63816
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 15758,
+        "forks": 2410,
+        "open_issues": 884,
+        "size": 63760
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 15882,
+        "forks": 2472,
+        "open_issues": 911,
+        "size": 64161
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 15791,
+        "forks": 2480,
+        "open_issues": 904,
+        "size": 64040
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 15960,
+        "forks": 2449,
+        "open_issues": 893,
+        "size": 64516
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 15936,
+        "forks": 2481,
+        "open_issues": 906,
+        "size": 64605
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 15927,
+        "forks": 2464,
+        "open_issues": 871,
+        "size": 65253
+      }
+    ]
+  },
+  "prefecthq/prefect": {
+    "name": "prefect",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 13975,
+        "forks": 1453,
+        "open_issues": 300,
+        "size": 50496
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 14233,
+        "forks": 1410,
+        "open_issues": 285,
+        "size": 51044
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 14145,
+        "forks": 1491,
+        "open_issues": 299,
+        "size": 50622
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 14391,
+        "forks": 1442,
+        "open_issues": 316,
+        "size": 51493
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 14395,
+        "forks": 1437,
+        "open_issues": 281,
+        "size": 50844
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 14248,
+        "forks": 1474,
+        "open_issues": 287,
+        "size": 51778
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 14642,
+        "forks": 1479,
+        "open_issues": 283,
+        "size": 51839
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 14692,
+        "forks": 1468,
+        "open_issues": 322,
+        "size": 51517
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 14772,
+        "forks": 1442,
+        "open_issues": 316,
+        "size": 51868
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 14623,
+        "forks": 1477,
+        "open_issues": 337,
+        "size": 51626
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 14906,
+        "forks": 1535,
+        "open_issues": 344,
+        "size": 52334
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 14934,
+        "forks": 1472,
+        "open_issues": 337,
+        "size": 52138
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 14934,
+        "forks": 1484,
+        "open_issues": 296,
+        "size": 52125
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 14811,
+        "forks": 1491,
+        "open_issues": 341,
+        "size": 52577
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 14819,
+        "forks": 1513,
+        "open_issues": 327,
+        "size": 52810
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 15061,
+        "forks": 1531,
+        "open_issues": 345,
+        "size": 52939
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 15005,
+        "forks": 1556,
+        "open_issues": 352,
+        "size": 52615
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 15038,
+        "forks": 1522,
+        "open_issues": 323,
+        "size": 53413
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 15439,
+        "forks": 1550,
+        "open_issues": 333,
+        "size": 53251
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 15530,
+        "forks": 1546,
+        "open_issues": 353,
+        "size": 53570
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 15241,
+        "forks": 1516,
+        "open_issues": 323,
+        "size": 53791
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 15307,
+        "forks": 1562,
+        "open_issues": 334,
+        "size": 53982
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 15600,
+        "forks": 1555,
+        "open_issues": 315,
+        "size": 54336
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 15801,
+        "forks": 1586,
+        "open_issues": 349,
+        "size": 54190
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 15561,
+        "forks": 1620,
+        "open_issues": 318,
+        "size": 54184
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 15792,
+        "forks": 1534,
+        "open_issues": 365,
+        "size": 54020
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 15866,
+        "forks": 1552,
+        "open_issues": 333,
+        "size": 54212
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 15749,
+        "forks": 1579,
+        "open_issues": 375,
+        "size": 54922
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 15848,
+        "forks": 1588,
+        "open_issues": 378,
+        "size": 55311
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 16065,
+        "forks": 1586,
+        "open_issues": 374,
+        "size": 54580
+      }
+    ]
+  },
+  "dagster-io/dagster": {
+    "name": "dagster",
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stars": 9608,
+        "forks": 1235,
+        "open_issues": 520,
+        "size": 78679
+      },
+      {
+        "date": "2025-07-14",
+        "stars": 9807,
+        "forks": 1249,
+        "open_issues": 491,
+        "size": 78574
+      },
+      {
+        "date": "2025-07-21",
+        "stars": 9726,
+        "forks": 1297,
+        "open_issues": 520,
+        "size": 78263
+      },
+      {
+        "date": "2025-07-28",
+        "stars": 9873,
+        "forks": 1306,
+        "open_issues": 499,
+        "size": 79009
+      },
+      {
+        "date": "2025-08-04",
+        "stars": 9959,
+        "forks": 1248,
+        "open_issues": 502,
+        "size": 79311
+      },
+      {
+        "date": "2025-08-11",
+        "stars": 10026,
+        "forks": 1326,
+        "open_issues": 552,
+        "size": 79491
+      },
+      {
+        "date": "2025-08-18",
+        "stars": 9925,
+        "forks": 1310,
+        "open_issues": 500,
+        "size": 79951
+      },
+      {
+        "date": "2025-08-25",
+        "stars": 9812,
+        "forks": 1253,
+        "open_issues": 503,
+        "size": 80312
+      },
+      {
+        "date": "2025-09-01",
+        "stars": 10172,
+        "forks": 1346,
+        "open_issues": 540,
+        "size": 79846
+      },
+      {
+        "date": "2025-09-08",
+        "stars": 10222,
+        "forks": 1279,
+        "open_issues": 556,
+        "size": 80395
+      },
+      {
+        "date": "2025-09-15",
+        "stars": 10148,
+        "forks": 1337,
+        "open_issues": 551,
+        "size": 80075
+      },
+      {
+        "date": "2025-09-22",
+        "stars": 10234,
+        "forks": 1343,
+        "open_issues": 548,
+        "size": 80575
+      },
+      {
+        "date": "2025-09-29",
+        "stars": 10354,
+        "forks": 1305,
+        "open_issues": 547,
+        "size": 80763
+      },
+      {
+        "date": "2025-10-06",
+        "stars": 10421,
+        "forks": 1323,
+        "open_issues": 539,
+        "size": 81212
+      },
+      {
+        "date": "2025-10-13",
+        "stars": 10154,
+        "forks": 1365,
+        "open_issues": 526,
+        "size": 81143
+      },
+      {
+        "date": "2025-10-20",
+        "stars": 10387,
+        "forks": 1335,
+        "open_issues": 556,
+        "size": 81692
+      },
+      {
+        "date": "2025-10-27",
+        "stars": 10312,
+        "forks": 1330,
+        "open_issues": 567,
+        "size": 81598
+      },
+      {
+        "date": "2025-11-03",
+        "stars": 10413,
+        "forks": 1383,
+        "open_issues": 552,
+        "size": 82437
+      },
+      {
+        "date": "2025-11-10",
+        "stars": 10475,
+        "forks": 1347,
+        "open_issues": 543,
+        "size": 82698
+      },
+      {
+        "date": "2025-11-17",
+        "stars": 10533,
+        "forks": 1366,
+        "open_issues": 573,
+        "size": 82263
+      },
+      {
+        "date": "2025-11-24",
+        "stars": 10553,
+        "forks": 1336,
+        "open_issues": 571,
+        "size": 82514
+      },
+      {
+        "date": "2025-12-01",
+        "stars": 10571,
+        "forks": 1368,
+        "open_issues": 560,
+        "size": 82768
+      },
+      {
+        "date": "2025-12-08",
+        "stars": 10530,
+        "forks": 1322,
+        "open_issues": 566,
+        "size": 83826
+      },
+      {
+        "date": "2025-12-15",
+        "stars": 10722,
+        "forks": 1399,
+        "open_issues": 577,
+        "size": 83347
+      },
+      {
+        "date": "2025-12-22",
+        "stars": 10653,
+        "forks": 1366,
+        "open_issues": 613,
+        "size": 83918
+      },
+      {
+        "date": "2025-12-29",
+        "stars": 10986,
+        "forks": 1370,
+        "open_issues": 569,
+        "size": 84343
+      },
+      {
+        "date": "2026-01-05",
+        "stars": 10744,
+        "forks": 1398,
+        "open_issues": 592,
+        "size": 84274
+      },
+      {
+        "date": "2026-01-12",
+        "stars": 10963,
+        "forks": 1379,
+        "open_issues": 594,
+        "size": 84054
+      },
+      {
+        "date": "2026-01-19",
+        "stars": 10800,
+        "forks": 1395,
+        "open_issues": 598,
+        "size": 84733
+      },
+      {
+        "date": "2026-01-26",
+        "stars": 10923,
+        "forks": 1377,
+        "open_issues": 607,
+        "size": 84861
+      }
+    ]
+  }
+}
