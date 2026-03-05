@@ -1,0 +1,482 @@
+[
+  {
+    "date": "2025-07-07",
+    "counts": {
+      "Python": 119839,
+      "Jupyter Notebook": 75206,
+      "JavaScript": 60478,
+      "TypeScript": 36438,
+      "Go": 31206,
+      "Java": 26915,
+      "C++": 19990,
+      "Rust": 18272,
+      "HTML": 16763,
+      "R": 11874,
+      "Other": 6319
+    }
+  },
+  {
+    "date": "2025-07-14",
+    "counts": {
+      "Python": 120503,
+      "Jupyter Notebook": 75497,
+      "JavaScript": 57594,
+      "TypeScript": 37021,
+      "Go": 29079,
+      "Java": 27104,
+      "C++": 23282,
+      "Rust": 16094,
+      "HTML": 17637,
+      "R": 12349,
+      "Other": 9715
+    }
+  },
+  {
+    "date": "2025-07-21",
+    "counts": {
+      "Python": 122027,
+      "Jupyter Notebook": 77276,
+      "JavaScript": 61865,
+      "TypeScript": 36912,
+      "Go": 32007,
+      "Java": 24329,
+      "C++": 23404,
+      "Rust": 16133,
+      "HTML": 15460,
+      "R": 12573,
+      "Other": 6465
+    }
+  },
+  {
+    "date": "2025-07-28",
+    "counts": {
+      "Python": 121672,
+      "Jupyter Notebook": 76781,
+      "JavaScript": 60801,
+      "TypeScript": 38841,
+      "Go": 29677,
+      "Java": 26191,
+      "C++": 20494,
+      "Rust": 18141,
+      "HTML": 15093,
+      "R": 14765,
+      "Other": 8571
+    }
+  },
+  {
+    "date": "2025-08-04",
+    "counts": {
+      "Python": 121575,
+      "Jupyter Notebook": 79000,
+      "JavaScript": 61753,
+      "TypeScript": 39764,
+      "Go": 29763,
+      "Java": 24151,
+      "C++": 22392,
+      "Rust": 16607,
+      "HTML": 16537,
+      "R": 14517,
+      "Other": 7544
+    }
+  },
+  {
+    "date": "2025-08-11",
+    "counts": {
+      "Python": 123088,
+      "Jupyter Notebook": 77641,
+      "JavaScript": 60233,
+      "TypeScript": 38856,
+      "Go": 30106,
+      "Java": 25279,
+      "C++": 20183,
+      "Rust": 17100,
+      "HTML": 19367,
+      "R": 13858,
+      "Other": 10468
+    }
+  },
+  {
+    "date": "2025-08-18",
+    "counts": {
+      "Python": 124618,
+      "Jupyter Notebook": 79482,
+      "JavaScript": 60552,
+      "TypeScript": 39698,
+      "Go": 28520,
+      "Java": 25390,
+      "C++": 21630,
+      "Rust": 17901,
+      "HTML": 18228,
+      "R": 13009,
+      "Other": 9727
+    }
+  },
+  {
+    "date": "2025-08-25",
+    "counts": {
+      "Python": 123317,
+      "Jupyter Notebook": 78176,
+      "JavaScript": 61668,
+      "TypeScript": 41490,
+      "Go": 32199,
+      "Java": 25022,
+      "C++": 20234,
+      "Rust": 17721,
+      "HTML": 18239,
+      "R": 12512,
+      "Other": 10753
+    }
+  },
+  {
+    "date": "2025-09-01",
+    "counts": {
+      "Python": 125707,
+      "Jupyter Notebook": 81018,
+      "JavaScript": 62914,
+      "TypeScript": 38729,
+      "Go": 29737,
+      "Java": 24523,
+      "C++": 21062,
+      "Rust": 17645,
+      "HTML": 19308,
+      "R": 11420,
+      "Other": 11843
+    }
+  },
+  {
+    "date": "2025-09-08",
+    "counts": {
+      "Python": 124633,
+      "Jupyter Notebook": 80946,
+      "JavaScript": 61143,
+      "TypeScript": 41060,
+      "Go": 31228,
+      "Java": 25645,
+      "C++": 23020,
+      "Rust": 15651,
+      "HTML": 18979,
+      "R": 14600,
+      "Other": 9577
+    }
+  },
+  {
+    "date": "2025-09-15",
+    "counts": {
+      "Python": 123969,
+      "Jupyter Notebook": 80494,
+      "JavaScript": 61412,
+      "TypeScript": 42471,
+      "Go": 31514,
+      "Java": 24923,
+      "C++": 21326,
+      "Rust": 19526,
+      "HTML": 17766,
+      "R": 14825,
+      "Other": 10832
+    }
+  },
+  {
+    "date": "2025-09-22",
+    "counts": {
+      "Python": 127214,
+      "Jupyter Notebook": 83497,
+      "JavaScript": 63659,
+      "TypeScript": 42679,
+      "Go": 33382,
+      "Java": 27606,
+      "C++": 23572,
+      "Rust": 18086,
+      "HTML": 19558,
+      "R": 13765,
+      "Other": -1383
+    }
+  },
+  {
+    "date": "2025-09-29",
+    "counts": {
+      "Python": 128983,
+      "Jupyter Notebook": 82864,
+      "JavaScript": 63474,
+      "TypeScript": 39785,
+      "Go": 30646,
+      "Java": 27877,
+      "C++": 23917,
+      "Rust": 18265,
+      "HTML": 18744,
+      "R": 12602,
+      "Other": 7053
+    }
+  },
+  {
+    "date": "2025-10-06",
+    "counts": {
+      "Python": 125970,
+      "Jupyter Notebook": 81242,
+      "JavaScript": 62907,
+      "TypeScript": 40287,
+      "Go": 32158,
+      "Java": 25755,
+      "C++": 21611,
+      "Rust": 19157,
+      "HTML": 19214,
+      "R": 11713,
+      "Other": 16772
+    }
+  },
+  {
+    "date": "2025-10-13",
+    "counts": {
+      "Python": 128196,
+      "Jupyter Notebook": 82880,
+      "JavaScript": 63923,
+      "TypeScript": 39995,
+      "Go": 31788,
+      "Java": 29421,
+      "C++": 23354,
+      "Rust": 19272,
+      "HTML": 20013,
+      "R": 15000,
+      "Other": 5520
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "counts": {
+      "Python": 128790,
+      "Jupyter Notebook": 80866,
+      "JavaScript": 63986,
+      "TypeScript": 42745,
+      "Go": 33968,
+      "Java": 29810,
+      "C++": 22722,
+      "Rust": 19620,
+      "HTML": 18690,
+      "R": 14335,
+      "Other": 6405
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "counts": {
+      "Python": 128765,
+      "Jupyter Notebook": 82309,
+      "JavaScript": 64733,
+      "TypeScript": 39618,
+      "Go": 31754,
+      "Java": 28702,
+      "C++": 22781,
+      "Rust": 17024,
+      "HTML": 18429,
+      "R": 12205,
+      "Other": 18193
+    }
+  },
+  {
+    "date": "2025-11-03",
+    "counts": {
+      "Python": 131356,
+      "Jupyter Notebook": 81866,
+      "JavaScript": 64897,
+      "TypeScript": 42338,
+      "Go": 30487,
+      "Java": 28692,
+      "C++": 21652,
+      "Rust": 18504,
+      "HTML": 16583,
+      "R": 13447,
+      "Other": 17267
+    }
+  },
+  {
+    "date": "2025-11-10",
+    "counts": {
+      "Python": 130152,
+      "Jupyter Notebook": 83726,
+      "JavaScript": 66980,
+      "TypeScript": 41702,
+      "Go": 34060,
+      "Java": 29738,
+      "C++": 22319,
+      "Rust": 16822,
+      "HTML": 16529,
+      "R": 14275,
+      "Other": 13362
+    }
+  },
+  {
+    "date": "2025-11-17",
+    "counts": {
+      "Python": 134588,
+      "Jupyter Notebook": 84294,
+      "JavaScript": 66822,
+      "TypeScript": 43829,
+      "Go": 33773,
+      "Java": 29535,
+      "C++": 25735,
+      "Rust": 17469,
+      "HTML": 16624,
+      "R": 12525,
+      "Other": 7047
+    }
+  },
+  {
+    "date": "2025-11-24",
+    "counts": {
+      "Python": 131174,
+      "Jupyter Notebook": 86271,
+      "JavaScript": 66778,
+      "TypeScript": 41394,
+      "Go": 34184,
+      "Java": 29756,
+      "C++": 22163,
+      "Rust": 19501,
+      "HTML": 20169,
+      "R": 12414,
+      "Other": 11013
+    }
+  },
+  {
+    "date": "2025-12-01",
+    "counts": {
+      "Python": 135194,
+      "Jupyter Notebook": 88149,
+      "JavaScript": 64964,
+      "TypeScript": 40701,
+      "Go": 32519,
+      "Java": 29490,
+      "C++": 26056,
+      "Rust": 18602,
+      "HTML": 20122,
+      "R": 12297,
+      "Other": 9299
+    }
+  },
+  {
+    "date": "2025-12-08",
+    "counts": {
+      "Python": 135306,
+      "Jupyter Notebook": 87005,
+      "JavaScript": 65284,
+      "TypeScript": 44505,
+      "Go": 35279,
+      "Java": 29280,
+      "C++": 22179,
+      "Rust": 21521,
+      "HTML": 20555,
+      "R": 13665,
+      "Other": 5389
+    }
+  },
+  {
+    "date": "2025-12-15",
+    "counts": {
+      "Python": 134766,
+      "Jupyter Notebook": 86233,
+      "JavaScript": 67585,
+      "TypeScript": 42662,
+      "Go": 35464,
+      "Java": 30508,
+      "C++": 22223,
+      "Rust": 21525,
+      "HTML": 19956,
+      "R": 16062,
+      "Other": 5560
+    }
+  },
+  {
+    "date": "2025-12-22",
+    "counts": {
+      "Python": 136839,
+      "Jupyter Notebook": 87008,
+      "JavaScript": 69051,
+      "TypeScript": 45918,
+      "Go": 32843,
+      "Java": 30602,
+      "C++": 24441,
+      "Rust": 19324,
+      "HTML": 19092,
+      "R": 15674,
+      "Other": 4328
+    }
+  },
+  {
+    "date": "2025-12-29",
+    "counts": {
+      "Python": 135425,
+      "Jupyter Notebook": 89500,
+      "JavaScript": 69890,
+      "TypeScript": 41876,
+      "Go": 35999,
+      "Java": 28012,
+      "C++": 24212,
+      "Rust": 20045,
+      "HTML": 18917,
+      "R": 12332,
+      "Other": 11488
+    }
+  },
+  {
+    "date": "2026-01-05",
+    "counts": {
+      "Python": 138996,
+      "Jupyter Notebook": 86689,
+      "JavaScript": 67226,
+      "TypeScript": 45584,
+      "Go": 33536,
+      "Java": 31280,
+      "C++": 25499,
+      "Rust": 18514,
+      "HTML": 17209,
+      "R": 16904,
+      "Other": 8835
+    }
+  },
+  {
+    "date": "2026-01-12",
+    "counts": {
+      "Python": 135955,
+      "Jupyter Notebook": 89797,
+      "JavaScript": 68942,
+      "TypeScript": 45628,
+      "Go": 35438,
+      "Java": 30289,
+      "C++": 24597,
+      "Rust": 21157,
+      "HTML": 17708,
+      "R": 13413,
+      "Other": 9924
+    }
+  },
+  {
+    "date": "2026-01-19",
+    "counts": {
+      "Python": 139668,
+      "Jupyter Notebook": 88216,
+      "JavaScript": 69763,
+      "TypeScript": 44455,
+      "Go": 34832,
+      "Java": 29356,
+      "C++": 25989,
+      "Rust": 18978,
+      "HTML": 20821,
+      "R": 13727,
+      "Other": 9619
+    }
+  },
+  {
+    "date": "2026-01-26",
+    "counts": {
+      "Python": 138201,
+      "Jupyter Notebook": 87750,
+      "JavaScript": 68189,
+      "TypeScript": 42925,
+      "Go": 35038,
+      "Java": 31185,
+      "C++": 23332,
+      "Rust": 18507,
+      "HTML": 19841,
+      "R": 16058,
+      "Other": 16974
+    }
+  }
+]
