@@ -28,7 +28,11 @@ export async function getRepoCountsByTopic(range = 'weekly') {
     return fetchFromAPI(`/repo-counts?interval=${range}`);
 }
 
-export async functionexport async functionexport async functionexport async fetexport async functionexport async functionexport async functionexport asyon getRepoList(range = 'weekly') {
+export async function getLanguagesTimeseries(range = 'weekly') {
+    return fetchFromAPI(`/primary-languages?interval=${range}`);
+}
+
+export async function getRepoList(range = 'weekly') {
     const data = await getRepoComparison(range);
     if (!data) return [];
     return Object.entries(data).map(([id, repoData]) => {
@@ -50,7 +54,8 @@ export async functionexport async functionexport async functionexport async fete
 export async function getRepoComparison(range = 'weekly') {
     if (comparisonCache[range]) {
         return comparisonCache[range];
-          if (comparisonPromises[range]) {
+    }
+    if (comparisonPromises[range]) {
         return comparisonPromises[range];
     }
     const promise = fetchFromAPI(`/repo-comparison?interval=${range}`)
@@ -59,6 +64,6 @@ export async function getRepoComparison(range = 'weekly') {
             delete comparisonPromises[range];
             return data;
         });
-                                                ur                    LE
-
-
+    comparisonPromises[range] = promise;
+    return promise;
+}
