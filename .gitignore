@@ -7,4 +7,8 @@ __pycache__
 
 *.egg-info
 
-frontend/js/config.js
+frontend/js/config.jsbackend/extract/package/
+backend/aggregate/package/
+backend/api/package/
+*.zip
+output.json

@@ -6,9 +6,9 @@ class Settings(BaseSettings):
 
     aggregated_data_prefix: str = "aggregated_data"
     profile: str = "default"
-    region: str = "eu-central-1"
+    region: str = "us-east-1"
     logging_level: str = "INFO"
-    allowed_origins: str = "http://127.0.0.1:5500"
+    allowed_origins: str = "https://github-tech-trends.vercel.app,http://localhost:3000"
     api_prefix: str = ""
 
 

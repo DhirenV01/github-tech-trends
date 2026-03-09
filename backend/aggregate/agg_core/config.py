@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     aggregated_data_prefix: str = "aggregated_data"
     github_data_prefix: str = "github_data"
     profile: str = "default"
-    region: str = "eu-central-1"
+    region: str = "us-east-1"
     logging_level: str = "INFO"
 
 
