@@ -12,3 +12,8 @@ backend/aggregate/package/
 backend/api/package/
 *.zip
 output.json
+backend/extract/package/
+backend/aggregate/package/
+backend/api/package/
+*.zip
+output.json
